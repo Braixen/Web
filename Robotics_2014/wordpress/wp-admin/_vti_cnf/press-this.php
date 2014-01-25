@@ -1,10 +1,15 @@
 vti_encoding:SR|utf8-nl
-vti_timelastmodified:TW|11 Jun 2012 20:34:42 -0000
+vti_timelastmodified:TR|25 Jan 2014 19:31:12 -0000
 vti_author:SR|PCSD\\otto ethan
-vti_modifiedby:SR|PCSD\\otto ethan
+vti_modifiedby:SR|ETHAN-PC\\Ethan
 vti_nexttolasttimemodified:TW|11 Jun 2012 20:34:42 -0000
 vti_timecreated:TR|25 Jan 2014 15:23:43 -0000
-vti_cacheddtm:TX|25 Jan 2014 15:23:43 -0000
+vti_title:SR|<?php _e('Press This') ?>
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|wordpress/wp-admin/press-this.php
+vti_syncofs_pittsfordrobotics.org\:21:TW|11 Jun 2012 20:34:42 -0000
+vti_syncwith_pittsfordrobotics.org\:21:TW|25 Jan 2014 15:23:43 -0000
+vti_cacheddtm:TX|25 Jan 2014 19:31:12 -0000
 vti_filesize:IR|26568
 vti_cachedtitle:SR|<?php _e('Press This') ?>
 vti_cachedbodystyle:SR|<body class="press-this wp-admin <?php echo $admin_body_class; ?>">
@@ -15,8 +20,3 @@ vti_cachedhasbots:BR|false
 vti_cachedhastheme:BR|false
 vti_cachedhasborder:BR|false
 vti_charset:SR|utf-8
-vti_title:SR|<?php _e('Press This') ?>
-vti_extenderversion:SR|12.0.0.0
-vti_backlinkinfo:VX|wordpress/wp-admin/press-this.php
-vti_syncofs_pittsfordrobotics.org\:21:TW|11 Jun 2012 20:34:42 -0000
-vti_syncwith_pittsfordrobotics.org\:21:TW|25 Jan 2014 15:23:43 -0000

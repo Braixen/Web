@@ -1,13 +1,15 @@
 vti_encoding:SR|utf8-nl
 vti_author:SR|PCSD\\Wells William
-vti_modifiedby:SR|PCSD\\Wells William
-vti_timelastmodified:TR|23 Jan 2014 21:23:30 -0000
+vti_modifiedby:SR|ETHAN-PC\\Ethan
+vti_timelastmodified:TR|25 Jan 2014 19:30:34 -0000
 vti_timecreated:TR|23 Jan 2014 20:45:48 -0000
 vti_title:SR|Pittsford Panthers Robotics | Gallery
 vti_extenderversion:SR|12.0.0.0
 vti_backlinkinfo:VX|
 vti_nexttolasttimemodified:TR|23 Jan 2014 21:21:08 -0000
-vti_cacheddtm:TX|23 Jan 2014 21:21:08 -0000
+vti_syncofs_pittsfordrobotics.org\:21:TW|25 Jan 2014 15:01:52 -0000
+vti_syncwith_pittsfordrobotics.org\:21:TX|23 Jan 2014 21:21:08 -0000
+vti_cacheddtm:TX|25 Jan 2014 19:30:34 -0000
 vti_filesize:IR|4340
 vti_cachedtitle:SR|Pittsford Panthers Robotics | Gallery
 vti_cachedbodystyle:SR|<body>
@@ -19,5 +21,3 @@ vti_cachedhastheme:BR|false
 vti_cachedhasborder:BR|false
 vti_metatags:VR|HTTP-EQUIV=Content-Type text/html;charset=utf-8
 vti_charset:SR|utf-8
-vti_syncofs_pittsfordrobotics.org\:21:TW|25 Jan 2014 15:01:52 -0000
-vti_syncwith_pittsfordrobotics.org\:21:TX|23 Jan 2014 21:21:08 -0000
