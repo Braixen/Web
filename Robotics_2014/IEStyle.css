@@ -1,0 +1,131 @@
+﻿body {
+	margin:0;
+	padding:0;
+	background: #0f005b;
+	color: #000;
+	font-family: "Trebuchet MS", Tahoma;
+}
+
+#dropshadow {
+	width:  1002px;
+	background: url(Images/backdropshadow3.png) repeat-y;
+	margin:  0 auto;
+}
+
+#wrap {
+	width:  940px;
+	background: #ffffff;
+	margin:  0 auto;
+}
+
+#header {
+	padding: 1px 10px 5px;
+	height: 300px; /*310 banner3*/
+	background: url(Images/PantherBanner1.png) no-repeat 0 0px;
+}
+
+#sidebar {
+	background: #fff;
+	float: left;
+	width:  160px;
+	margin-top: -50px;
+	font-variant: small-caps;
+	font-size: 16px; /*24*/
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #23238d;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #23238d;
+}
+
+a:visited {
+	color: #23238d;
+}
+
+a:active {
+	color: #23238d;
+}
+
+
+#nav {
+	list-style-type: none;
+	margin-left: 0px;
+	line-height: 24px; /*44*/
+	letter-spacing: 2px; /*3*/
+	word-spacing: 3px; /*4*/
+}
+
+html > body #nav {
+	list-style-type: none;
+	margin-left: 0px;
+	line-height: 24px; /*44*/
+	letter-spacing: 2px; /*3*/
+	word-spacing: 3px; /*4*/
+}
+
+#nav:first-child+html {	list-style-type: none;	margin-left: -30px;	line-height: 24px;	letter-spacing: 2px;	word-spacing: 3px;}
+
+#nav li {
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+}
+
+#main {
+	
+	background: #fff;
+	float: right;
+	width: 720px;
+	margin-top: -50px;
+	word-spacing: 1px;
+	font-size: 12px;
+	padding: 10px;
+}
+
+#nocolorlinks {
+	color: black;
+	
+}
+
+#nocolorlinks a {
+	color: black;
+}
+
+#nocolorlinks a:hover {
+	color: black;
+
+	
+}
+
+#nocolorlinks a:visited {
+	color: black;
+
+}
+
+#nocolorlinks a:active {
+	color: black;
+
+}
+
+
+#main p {
+	line-height: 18px;
+}
+
+#footer {
+	background: #fff;
+	clear: both;
+	padding: 2px 10px;
+	font-size: x-small;
+}
+
+.current_page {
+	font-size: 20px; /*30*/
+	font-weight: bold;
+	text-align: right;
+}

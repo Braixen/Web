@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        
+        <!-- HOUSEKEEPING -->
+        
+            <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+            <title>Pittsford Panthers Robotics | Home</title>
+            <link rel="shortcut icon" href="http://www.pittsfordrobotics.org/Images/PP.ico" type="image/x-icon" />
+            <link rel="icon" href="http://www.pittsfordrobotics.org/Images/PP.ico" type="image/x-icon" />
+            <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+
+        <!-- STYLESHEETS -->
+        
+            <link rel="stylesheet" type="text/css" href="http://www.pittsfordrobotics.org/robotics.css" />
+            <link rel="stylesheet" type="text/css" href="http://www.pittsfordrobotics.org/news.css" />
+            
+            <link rel="stylesheet" type="text/css" href="IEStyle.css" />
+            
+        
+        <link href="first.css" rel="stylesheet" type="text/css" />
+            
+        
+        <!-- SCRIPTS -->
+        
+            <script type="text/javascript" src="http://pittsfordrobotics.org/scripts/thumbnailToggle.js"></script>
+            
+    </head>
+
+    <body>
+
+        <div id="wrap">
+
+            <div id="header"></div>
+
+            <!-- SIDEBAR -->
+            
+                <div id="sidebar">
+                
+                <!-- NAVIGATION LIST -->
+
+                    <ul id="nav">
+                    <li><a href="http://www.pittsfordrobotics.org/">Home</a></li>
+                    <li class="current_page"><a href="#">News</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/gallery.php">Gallery</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/calendar.html">Calendar</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/sponsors.html">Sponsors</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/subteams.html">Sub-Teams</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/game.html">The Game</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/first.html">About FIRST</a></li>
+                    <li><a href="http://www.pittsfordrobotics.org/resources.html">Resources</a></li>
+                    </ul>
+
+                <hr />
+                
+                <!-- MAJOR SPONSORS -->
+                
+                    <!--SENTRY SAFE-->
+
+                        <a href="http://sentrysafe.com/"><img src="http://www.pittsfordrobotics.org/Images/sentrysafelogo.png" alt="Sentry Safe" width="150" border="0" /></a>
+                    
+                    <br /><br /><br />
+            
+                    <!--XEROX-->
+            
+                        <a href="http://www.xerox.com/"><img src="http://www.pittsfordrobotics.org/Images/xlogo.gif" alt="Xerox" width="150" border="0" /></a>
+
+                <hr />
+
+                <!-- FIRST LINKS -->
+                
+                    <center><a href="http://www.usfirst.org/"><img src="http://www.pittsfordrobotics.org/Images/firstLogo.jpg" alt="FIRST" width="150" border="0" /></a>
+                    <a href="http://www.usfirst.org/">FIRST Robotics Website</a></center>
+
+                <hr />
+                
+                <!-- COUNTDOWN TIMER -->
+
+                    <object width="150" height="91">
+                    <param name="movie" value="http://www.pittsfordrobotics.org/CountDownShip.swf" />
+                    <embed src="http://www.pittsfordrobotics.org/CountDownShip.swf" width="150" height="91">
+                    </embed>
+                    </object>
+
+                </div>
+
+            <!-- MAIN -->
+            
+                <div id="main">
+                    
+                    <!-- POSTS -->
+
+                        {block:Posts}
+						
+                            <!-- TEXT POSTS -->
+
+                                {block:Text}
+
+                                    <div class="post">
+
+                                        <!-- POST TITLE -->
+
+                                            {block:Title}
+                                                <div class="content">
+                                                    <h1>{Title}</h1>
+                                                </div>
+                                            
+                                                <br />
+                                            {/block:Title}
+
+                                        <!-- POST CONTENT -->    
+
+                                            <div class ="content">
+                                                {Body}
+                                            </div>
+                                        
+                                            <br />
+                                                    
+                                        <!-- POST INFO -->
+
+                                            <div class="content" style="font-style:italic;">
+
+                                                <!-- POST DATE -->
+
+                                                    Posted on {DayofWeek} {Month} {DayOfMonth}{DayOfMonthSuffix}, {Year}
+
+                                                <!-- TAGS -->
+
+                                                    <br />
+
+                                                    {block:HasTags}
+                                                        Tagged: 
+                                                            {block:Tags}
+                                                                <a href="{TagURL}">
+                                                                    {Tag} 
+                                                                </a>
+                                                            {/block:Tags}
+                                                    {/block:HasTags}
+
+                                            </div>
+
+                                    </div>
+
+                                {/block:Text}
+                                
+                            <!-- LINK POSTS -->
+                                
+                                {block:Link}
+                                
+                                    <!-- LINK -->
+                                
+                                        <div class="content">
+                                            
+                                            <a href="{URL}" target="{Target}">{Name}</a>
+                                            
+                                        </div>
+                                    
+                                    <!-- DESCRIPTION -->
+                                    
+                                        {block:Description}
+
+                                            <div class="content">
+
+                                                {Description}
+
+                                            </div>
+
+                                        {/block:Description}
+                                        
+                                    <!-- INFO -->
+                                    
+                                        <div class="content" style="font-style:italic;">
+
+                                            <!-- POST DATE -->
+
+                                                Posted on {DayofWeek} {Month} {DayOfMonth}{DayOfMonthSuffix}, {Year}
+
+                                            <!-- TAGS -->
+
+                                                <br />
+
+                                                {block:HasTags}
+                                                    Tagged: 
+                                                        {block:Tags}
+                                                            <a href="{TagURL}">
+                                                                {Tag} 
+                                                            </a>
+                                                        {/block:Tags}
+                                                {/block:HasTags}
+
+                                        </div>
+                                    
+                                {/block:Link}
+												
+                        {/block:Posts}
+                                        
+                    <!-- NAVIGATION -->
+                                        
+                        {block:Pagination}
+                        
+                            <div class="nav">
+                                
+                                PAGE {CurrentPage}/{TotalPages}
+                                
+                                <br />
+                                
+                                {block:PreviousPage}
+                                
+                                    <a href="/">FIRST</a>    
+                                    <a href="{PreviousPage}">PREVIOUS</a>
+                                
+                                {/block:PreviousPage}
+                                
+                                {block:PreviousPage}{block:NextPage}
+                                    <!-- spaces -->
+                                {/block:NextPage}{/block:PreviousPage}
+                                
+                                {block:NextPage}
+                                
+                                    <a href="{NextPage}">NEXT</a>    
+                                    <a href="/page/{TotalPages}">LAST</a>
+                                
+                                {/block:NextPage}
+                                
+                            </div>
+                        
+                        {/block:Pagination}
+                        
+                        <div class="test"></div>
+
+                </div>
+            
+            <!-- FOOTER -->
+
+                <div id="footer">
+
+                    <p align="center">Copyright &copy; 2009-2012 Pittsford Panthers Robotics Club. All Rights Reserved.</p>
+
+                </div>
+            
+        </div>
+
+    </body>
+
+</html>

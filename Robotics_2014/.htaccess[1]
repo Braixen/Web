@@ -1,0 +1,6 @@
+# Use PHP5.4 as default
+AddHandler application/x-httpd-php54 .php
+RewriteCond %{HTTP_HOST} ^pittsfordrobotics.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www.pittsfordrobotics.net$
+RewriteRule ^(.*) http://box682.bluehost.com/suspended.page/disabled.cgi/pittsfordrobotics.net [L,R=302]
+# </deactivate>

@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: c.bavota <c@bavotasan.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: gridiculous/search.php:8
+msgid " search results for"
+msgstr ""
+
+#. Text in function
+#: gridiculous/content.php:32
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:427
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/single.php:12
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: gridiculous/comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:427
+#: gridiculous/functions.php:451
+#: gridiculous/content.php:100
+msgid "(edit)"
+msgstr ""
+
+#. Text in function
+#: gridiculous/content.php:32
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "1 Column"
+msgstr ""
+
+#. Text in function
+#: gridiculous/content.php:32
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "10 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "11 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "12 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "2 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "3 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "4 Columns"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/404.php:8
+msgid "404 Error"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "5 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "6 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "640px"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "7 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "8 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "9 Columns"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "960px"
+msgstr ""
+
+#. Text in function
+#: gridiculous/single.php:11
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/sidebar.php:20
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: gridiculous/comments.php:46
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: gridiculous/archive.php:16
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Display Home Page Top Widget Area"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Display Tagline"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "First Sidebar"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1
+msgid "Froggy"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Full Content"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Full Width"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "Header Area"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "Home Page Top Area"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Main Content"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/header.php:56
+msgid "Main menu"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/sidebar.php:11
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: gridiculous/archive.php:18
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: gridiculous/comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "No Sidebar"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/archive.php:55
+msgid "No results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: gridiculous/index.php:24
+msgid "No results were found for your request."
+msgstr ""
+
+#. Text in echo
+#: gridiculous/search.php:35
+msgid "No results were found for your search. Please try again."
+msgstr ""
+
+#. Text in echo
+#: gridiculous/index.php:20
+msgid "Not found"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/search.php:31
+#: gridiculous/archive.php:51
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/header.php:10
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/content.php:21
+#: gridiculous/content.php:84
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/functions.php:451
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Post Content Display"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Post Pages menu"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/single.php:10
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: gridiculous/content.php:50
+msgid "Posted %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Search&hellip;"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Site Layout"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Site Width"
+msgstr ""
+
+#. Text in echo
+#: gridiculous/404.php:11
+msgid "Sorry. We can't seem to find the page you are looking for."
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:807
+msgid "Teaser Excerpt"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "This is the sidebar widgetized area. All defaults widgets work great here."
+msgstr ""
+
+#. Text in echo
+#: gridiculous/comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:453
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "Widgetized area in the header to the right of the site name. Great place for a search box or a banner ad."
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:1003
+msgid "Widgetized area on the home page directly below the navigation menu. Specifically designed for 3 text widgets. Must be turned on in the Layout options on the Customize Gridiculous admin page."
+msgstr ""
+
+#. Text in function
+#: gridiculous/archive.php:20
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: gridiculous/functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
