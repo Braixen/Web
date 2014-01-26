@@ -54,7 +54,7 @@
 
                     <ul id="nav">
                     <li><a href="./index.html">Home</a></li>
-                    <li><a href="http://news.pittsfordrobotics.org/">News</a></li>
+                    <li><a >Blog</a></li>                    
                     <li class="current_page"><a href="./gallery.php">Gallery</a></li>
                     <li><a href="./calendar.html">Calendar</a></li>
                     <li><a href="./sponsors.html">Sponsors</a></li>
