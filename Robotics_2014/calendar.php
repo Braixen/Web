@@ -18,13 +18,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./index.html">
 <div id="header" ></div></a><!-- SIDEBAR -->
-<?php include("sidebar.php") ?><!-- MAIN -->
-<div id="main">
-<h2><font color="#0000ff"><strong> Meeting Schedule</strong></font></h2><font color="#0000ff"><strong></strong></font>
-<hr align="center" width="720" /><br />
-<font size="3">Monday + Tuesday- 6:30-9:00 PM<br />
-<br />
- Thursday- 3:30-6:30 PM<br />
+<?php include("sidebar.php") ?>
+    <!-- MAIN -->
+    <div id="main">
+    <h2><font color="#0000ff"><strong> Meeting Schedule</strong></font></h2><font color="#0000ff"><strong></strong></font>
+    <hr align="center" width="720" /><br />
+    <font size="3">Monday + Tuesday- 6:30-9:00 PM<br />
+
+    <br /> Thursday- 3:30-6:30 PM<br />
 <br />
  Saturday- 9:00 AM-8:00 PM<br />
 <br />

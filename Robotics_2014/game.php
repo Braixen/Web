@@ -16,33 +16,10 @@
 </head>
 <body>
 <div id="wrap"><a href="./index.html">
-<div id="header" style="left: 0px; top: 0px"></div></a><!-- SIDEBAR -->
-<div id="sidebar" style="left: 0px; top: 258px; width: 18%;"><!-- NAVIGATION LIST -->
-<ul id="nav">
-<li><a href="./index.html">Home</a></li>
-<li><a href="http://www.pittsfordrobotics.org/wordpress/">Blog</a></li>
-<li><a href="./gallery.php">Gallery</a></li>
-<li><a href="./calendar.html">Calendar</a></li>
-<li><a href="./sponsors.html">Sponsors</a></li>
-<li><a href="./donations.html">Donations</a></li>
-<li><a href="./mentors.html">Mentors</a></li>
-<li><a href="./subteams.html">Subteams</a></li>
-<li class="current_page"><a href="./game.html">The Game</a></li>
-<li><a href="./first.html">About FIRST</a></li>
-	<li><a href="./parts.html">3D Printed&nbsp; Parts</a></li>
-<li><a href="./resources.html">Resources</a></li></ul>
-<hr /><!-- MAJOR SPONSORS --><!--SENTRY SAFE-->
-	<div id="sponsors"><a href="http://sentrysafe.com/">
-	<img alt="" height="55" src="Images/Sentry.jpg" width="153" /></a><br />
-<!--XEROX--><a href="http://www.xerox.com/"><img border="0" alt="Xerox" width="150" src="Images/xlogo.gif" /></a>&nbsp;<a href="http://www.rochesteroptical.com/"><img alt="Rochester Optical" class="auto-style5" height="72" src="Images/RochesterOpticalLogo_sm.png" width="150" /></a><img alt="Cisco" height="68" src="Images/Cisco_sm.jpg" width="154" />
-</div>
-                <hr /><!-- FIRST LINKS -->
-<center><object width="150" height="91">
-<param name="movie" value="CountDownShip.swf" /><embed src="CountDownShip.swf" width="150" height="91"></embed></object><a href="http://www.usfirst.org/"><img src="Images/firstLogo.jpg" alt="FIRST" width="150" border="0" /></a><br />
-<a href="http://www.usfirst.org/">FIRST Robotics Website</a></center><!--
-<hr /><object width="150" height="91">
-<param name="movie" value="CountDownShip.swf" /><embed src="CountDownShip.swf" width="150" height="91"></embed></object>--></div><!-- MAIN -->
-<div id="main" style="text-align: center;height:40%; left: 0px; top: 0px;" >
+<div id="header" style="left: 0px; top: 0px"></div></a>
+    <!-- SIDEBAR -->
+    <?php include("sidebar.php") ?>
+<div id="main"style="text-align: center;height:40%; left: 0px; top: 0px;" >
 <h1><u>2014 FRC Game: Aerial Assist</u></h1>
 	<img src="Images/AerialAssist_RGB.jpg" alt="Ultimate Ascent" border="0" width="300" title="Ultimate Ascent" height="200" /><!-- description of this year's game-->
 <p>AERIAL ASSIST<sup>SM </sup>is played by two competing Alliances of three robots each on a flat 25&rsquo; x 54&rsquo; foot field, straddled by a truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together to do it, the more points their Alliance receives.</p>

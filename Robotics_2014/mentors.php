@@ -18,6 +18,7 @@
 <body>
 <div id="wrap">
 <div id="header" style="left: 0px; top: 0px"></div><!-- SIDEBAR -->
+
 <?php include("sidebar.php") ?>
 <!-- MAIN -->
 <div id="main" style="background-color:#C0C0C0" >
