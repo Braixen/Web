@@ -57,7 +57,16 @@
 			<a href="http://wikihelp.autodesk.com/Inventor/enu/Community/User_Pages/FIRST_Robotics">Autodesk Tutorials for FIRST</a><div></div>
 <hr />
 <h3 class="auto-style9">Our CADing Resources</h3>
-<p>Under Construction</p>
+    <ul>
+        <li class="cad_link"><a href="Website_CAD/4_Limit_Switch_Mount.stl">4_Limit_Switch_Mount.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/7.25_in_Pulley.stl">7.25_in_Pulley.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/Bearing_mount.stl">Bearing_mount.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/Bracket_for_VEX_Pro_Motor_Mount.stl">Bracket_for_VEX_Pro_Motor_Mount.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/Range_Finder_Mount.stl">Range_Finder_Mount.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/Vex_Pro_PVC_Coupling_R3.stl">VEX_Pro_PVC_Coupling_R3.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/VEX_Encoder_shaft_converter_R3.stl">VEX_Encoder_shaft_converter_R3.stl</a></li>
+
+    </ul>
 	<p class="auto-style1">
 	&nbsp;</p>
 	<h4>&nbsp;</h4>

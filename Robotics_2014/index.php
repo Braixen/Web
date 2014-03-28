@@ -42,8 +42,9 @@
 	<?php include("sidebar.php") ?>
 <!--
 <hr /><object width="150" height="91">
-<param name="movie" value="CountDownShip.swf" /><embed src="CountDownShip.swf" width="150" height="91"></embed></object>--><!-- MAIN -->
-<div style="text-align: center; left: 0px; top: 0px;" id="main">
+<param name="movie" value="CountDownShip.swf" /><embed src="CountDownShip.swf" width="150" height="91"></embed></object>-->
+    <!-- MAIN -->
+<div style="text-align: center;" id="main">
 <h1>- PITTSFORD PANTHERS - FRC TEAM 3181 - PITTSFORD, NY -</h1>
 	<img alt="" width="400" src="Pictures/Robotics%202014%20Pictures/IMG_0885.JPG" height="300" style="float: right" />
 <h4><em>Pittsford Robotics 2014</em></h4>
@@ -54,8 +55,8 @@
 		<h5 class="auto-style11">MAP TO PITTSFORD SUTHERLAND HIGH 
 		SCHOOL</h5></div>
 	<div style="float:left;"><h5>&nbsp;&nbsp;&nbsp;<span class="auto-style11"> MAP TO PITTSFORD MENDON HIGH SCHOOL</span></h5></div>
-<iframe style="float:left;height:375px; left: 198px; top: 770px;" marginheight="0" frameborder="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=mendon+high+school+pittsford+new+york&amp;aq=&amp;sll=43.089006,-77.522076&amp;sspn=0.009261,0.01929&amp;ie=UTF8&amp;hq=mendon+high+school&amp;hnear=Pittsford,+Monroe,+New+York&amp;t=h&amp;ll=43.061112,-77.519703&amp;spn=0.037626,0.051498&amp;z=13&amp;iwloc=A&amp;output=embed" id="I1" name="I1" class="auto-style12"></iframe>
-<iframe style="float:right;height:375px; left: 588px; top: 770px;" align="right" marginheight="0" frameborder="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=sutherland+high+school+pittsford+new+york&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=41.003738,79.013672&amp;ie=UTF8&amp;hq=sutherland+high+school&amp;hnear=Pittsford,+Monroe,+New+York&amp;t=h&amp;cid=14586439537577427509&amp;ll=43.0892,-77.522707&amp;spn=0.018804,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"  id="I2" name="I2"></iframe><br />
+<iframe style="float:left;height:375px; left: 198px; top: 770px;"  scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=mendon+high+school+pittsford+new+york&amp;aq=&amp;sll=43.089006,-77.522076&amp;sspn=0.009261,0.01929&amp;ie=UTF8&amp;hq=mendon+high+school&amp;hnear=Pittsford,+Monroe,+New+York&amp;t=h&amp;ll=43.061112,-77.519703&amp;spn=0.037626,0.051498&amp;z=13&amp;iwloc=A&amp;output=embed" id="I1" name="I1" class="auto-style12"></iframe>
+<iframe style="float:right;height:375px; left: 588px; top: 770px;" align="right"  scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=sutherland+high+school+pittsford+new+york&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=41.003738,79.013672&amp;ie=UTF8&amp;hq=sutherland+high+school&amp;hnear=Pittsford,+Monroe,+New+York&amp;t=h&amp;cid=14586439537577427509&amp;ll=43.0892,-77.522707&amp;spn=0.018804,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"  id="I2" name="I2"></iframe><br />
 		
 <div >
 	
