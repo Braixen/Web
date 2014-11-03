@@ -41,7 +41,7 @@
                 <div id="main" style="left: 0px; top: 0px">
 				
 				
-					<p>If you wish to sponsor or donate to Pittsford Panthers Robotics team 3181, please contact Brian Holliday at <a href="mailto:brian_holliday@pittsford.monroe.edu">brian_holliday@pittsford.monroe.edu</a>.</p>
+					<p>If you wish to sponsor or donate to Pittsford Panthers Robotics team 3181, please contact Jania Otto at <a href="janiaotto@yahoo.com">janiaotto@yahoo.com</a>.</p>
 					
 					<br />
 				

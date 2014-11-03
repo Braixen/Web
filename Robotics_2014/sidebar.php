@@ -54,6 +54,14 @@
                {
                    echo '<li><a href="./donations.php">Donations</a></li>';    
                }
+               if( $_SERVER['PHP_SELF'] == "/contacts.php")
+               {
+                   echo '<li class="current_page"><a href="./contacts.php">Contacts</a></li>';
+               }
+               else
+               {
+                   echo '<li><a href="./contacts.php">Contacts</a></li>';
+               }
                if( $_SERVER['PHP_SELF'] == "/mentors.php")
                {
                    echo '<li class="current_page"><a href="./mentors.php">Mentors</a></li>';
@@ -62,6 +70,7 @@
                {
                    echo '<li><a href="./mentors.php">Mentors</a></li>';
                }
+
                if( $_SERVER['PHP_SELF'] == "/subteams.php")
                {
                    echo '<li class="current_page"><a href="./subteams.php">Subteams</a></li>';

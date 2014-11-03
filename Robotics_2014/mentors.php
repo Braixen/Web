@@ -5,9 +5,9 @@
 <title>Pittsford Panthers Robotics | Home</title>
 <link rel="shortcut icon" type="image/x-icon" href="Images/PP.ico" />
 <link rel="icon" type="image/x-icon" href="Images/PP.ico" /><!-- STYLESHEETS -->
-<link href="robotics.css" rel="stylesheet" type="text/css" />
+
 <link href="IEStyle.css" rel="stylesheet" type="text/css" />
-<link href="first.css" rel="stylesheet" type="text/css" />
+
 <style type="text/css">
 .auto-style1 {
 	text-align: center;

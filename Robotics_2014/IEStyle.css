@@ -146,6 +146,11 @@ html > body #nav
 	
 }
 
+#main hr {
+   float: initial;
+   width: 720px ;
+}
+
 #nocolorlinks {
 	color: black;
 	
@@ -195,6 +200,7 @@ html > body #nav
 	clear: both;
 	padding: 2px 10px;
 	font-size: x-small;
+    color: #0e00a0;
 
 }
 

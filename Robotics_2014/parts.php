@@ -64,7 +64,7 @@
         <li class="cad_link"><a href="Website_CAD/Bracket_for_VEX_Pro_Motor_Mount.stl">Bracket_for_VEX_Pro_Motor_Mount.stl</a></li>
         <li class="cad_link"><a href="Website_CAD/Range_Finder_Mount.stl">Range_Finder_Mount.stl</a></li>
         <li class="cad_link"><a href="Website_CAD/Vex_Pro_PVC_Coupling_R3.stl">VEX_Pro_PVC_Coupling_R3.stl</a></li>
-        <li class="cad_link"><a href="Website_CAD/VEX_Encoder_shaft_converter_R3.stl">VEX_Encoder_shaft_converter_R3.stl</a></li>
+        <li class="cad_link"><a href="Website_CAD/VEX_Encoder_shaft_converter_.5in.stl">VEX_Encoder_shaft_converter_.5in.stl</a></li>
 
     </ul>
 	<p class="auto-style1">

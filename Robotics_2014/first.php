@@ -19,7 +19,7 @@
             <link rel="stylesheet" type="text/css" href="IEStyle.css" />
             
             
-            <link href="first.css" rel="stylesheet" type="text/css" />
+            <!--<link href="first.css" rel="stylesheet" type="text/css" /> -->
         
     	<style type="text/css">
 .auto-style5 {
