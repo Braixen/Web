@@ -1,4 +1,22 @@
-	
+<?php
+
+
+function self_check($link,$name){
+    if(TRUE)
+    //$_SERVER['PHP_SELF'] == "'{$link}'.php")
+    {
+        echo '<li class="current_page"><a href="./';
+        echo "{$link}.php\">{$name}</a></li>";
+    }
+    else
+    {
+        echo '<li><a href="./';
+        echo "{$link}.php\">";
+        echo "$name</a></li>";
+    }
+}
+
+function sidebar(){
 	<!--<head>
 	<link href="IEStyle.css" rel="stylesheet" type="text/css">
 	</head> -->
@@ -7,11 +25,11 @@
 	{	
 		echo '<link href="robotics" rel="stylesheet" type="text/css" />';
 	}
-	?>
+	
 	
 
-<div id="sidebar" style="left:0%"><!-- NAVIGATION LIST -->
-	<ul id="nav">
+echo '<div id="sidebar" style="float:left"><!-- NAVIGATION LIST -->';
+echo '	<ul id="nav">';
 		<?php if( $_SERVER['PHP_SELF'] == "/index.php" )
                 { 
                     echo '<li class="current_page"><a href="./index.php">Home</a></li>';
@@ -20,8 +38,8 @@
             {
             echo '<li><a href="./index.php">Home</a></li>';    
             } 
-            ?>
-		<li><a href="./wordpress">Blog</a></li>
+           
+echo		'<li><a href="./wordpress">Blog</a></li>';
 		<?php if( $_SERVER['PHP_SELF'] == "/gallery.php")
                 {
                     echo '<li class="current_page"><a href ="./gallery.php">Gallery</a></li>';
@@ -111,17 +129,32 @@
                {
                    echo '<li><a href="./resources.php">Resources</a></li>';
                }
- ?>
 
-		</ul>
-        <hr />
-	
-    <div id="sponsors">
-	    <div id="safe" ><a href="http://sentrysafe.com/" style="width: 150px">
-	    	<img alt="SenterySafe" height="55" src="Images/Sentry.jpg" width="153" />
-	    </a>
-	</div>
-	
+echo 		'</ul>';
+echo        '<hr />';
+}
+
+function add_sponsor($name, $link, $thumbnail_link){
+    if(!isset($sponsors){
+        global $sponsors = array();
+    }
+    array_push($sponsors, array($name, $link, $thumbnail_link));
+}
+
+function sponsors()
+{
+        add_sponsor("xerox", "xerox.com",);
+        <div id="sponsors">
+        for($count = 0; $count < count($sponsors); $count++){
+	        echo "<div id="$name" ><a href=\"http://www.$link">;
+	    	echo "<img alt=\"";
+            echo ucfirst($name);
+            echo " \"src=\"Images/$thumbnail_link\"/>";
+	        echo  '</a>';
+	        echo  '</div>';
+        }
+}
+	/*
 <!--XEROX-->
 	<div id="xerox">
 		<a href="http://www.xerox.com/" >
@@ -144,4 +177,9 @@
 	<img alt="FIRST" width="150" src="Images/firstLogo.jpg" />
 		</a>
 		</div>
-	
+}
+*/
+ ?>
+
+?>
+

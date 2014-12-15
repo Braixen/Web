@@ -68,10 +68,9 @@ body
 	
 }
 
-#sponsors
+#sponsor_
 {
 	
-	margin-left:10px;
 }
 
 a 
@@ -208,7 +207,7 @@ html > body #nav
 {
 	font-size: 20px; /*30*/
 	font-weight: bold;
-	text-align: right;
+	text-align: left;
 }
 
 .profile 

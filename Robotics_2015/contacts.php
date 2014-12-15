@@ -16,14 +16,8 @@
             <link rel="stylesheet" type="text/css" href="robotics.css" />
             
            
-            <link rel="stylesheet" type="text/css" href="IEStyle.css" />
-           
-        
-    	<style type="text/css">
-.auto-style5 {
-	border-width: 0px;
-}
-</style>
+            <!--<link rel="stylesheet" type="text/css" href="IEStyle.css" /> -->
+          
            
         
     </head>

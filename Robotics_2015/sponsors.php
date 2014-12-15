@@ -6,58 +6,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="Images/PP.ico" />
 <link rel="icon" type="image/x-icon" href="Images/PP.ico" /><!-- STYLESHEETS -->
 <link rel="stylesheet" type="text/css" href="robotics.css" />
-<link rel="stylesheet" type="text/css" href="IEStyle.css" />
-<style type="text/css">
-.auto-style1 {
-	font-family: "Trebuchet MS";
-}
-.auto-style2 {
-	color: #0066CC;
-}
-h1{font-size:25px}
+<!--<link rel="stylesheet" type="text/css" href="IEStyle.css" />-->
 
-h1 {
-	color:#3283b1;
-	font-weight: normal;
-	padding:20px 0 10px 0;
-	line-height:1.1em;
-}
-
-b,
-strong {
-/*
-  Makes browsers agree.
-  IE + Opera = font-weight: bold.
-  Gecko + WebKit = font-weight: bolder.
-*/
-  font-weight: bold;
-}
-
-.auto-style3 {
-	font-size: 100%;
-	font-family: "Century Gothic", "Myriad Pro", Arial, sans-serif;
-	border-style: none;
-	border-color: inherit;
-	border-width: 0;
-	margin: 0;
-	padding: 0;
-}
-.auto-style4 {
-	font-size: 100%;
-	border-style: none;
-	border-color: inherit;
-	border-width: 0;
-	margin: 0;
-	padding: 0;
-}
-.auto-style5 {
-	border-width: 0px;
-}
-
-#main {
-    height:1800px;
-}
-</style>
 </head>
 <body>
 <div id="wrap">
@@ -94,10 +44,10 @@ management. They provide true end-to-end solutions, from back-office support to 
  United States<br />
 <br /> Telephone: 1-203-968-3000</p>
 <hr />
-<h2 class="auto-style1">
-	<a class="auto-style2" href="http://www.rochesteroptical.com/">Rochester 
+<h2>
+    <a href="http://www.rochesteroptical.com/">Rochester
 	Optical</a></h2>
-	<p class="auto-style1">
+	<p>
 	<img alt="Rochester Optical" height="72" src="Images/RochesterOpticalLogo_sm.png" width="150" /></p>
 	<h4>Rochester Optical Manufacturing is an independently owned and operated 
 	manufacturer and wholesaler of high quality fashion and military eye wear 
@@ -106,11 +56,11 @@ management. They provide true end-to-end solutions, from back-office support to 
 	we have proudly served men and women of the armed forces, past and present. 
 	We also serve eye care professionals, corporate customers, and members of 
 	our local community.</h4>
-	<h1 class="auto-style3">Main Office</h1>
+	<h1>Main Office</h1>
 	<p>1260 Lyell Avenue<br />
 	Rochester, NY 14606<br />
-	<strong class="auto-style4">Phone:</strong> (585) 254-0022<br />
-	<strong class="auto-style4">Fax:</strong> (585) 254-0132</p>
+	<strong>Phone:</strong> (585) 254-0022<br />
+	<strong>Fax:</strong> (585) 254-0132</p>
 <hr />
 <h2><a title="" target="_blank" href="http://www.cisco.com/"><font color="#0066cc">Cisco Systems</font></a></h2>
 <p><u><font color="#0066cc"><img style="width: 151px; height: 78px" alt="" width="151" height="78" src="http://pittsfordrobotics.org/Images/Cisco.jpg" /></font></u></p>
@@ -133,6 +83,6 @@ Q1 FY'14 Employee Count: 75,136</font></span></p>
 <p>1515 Scottsville Rd.<br />
  Rochester, NY 14623</p></div><!-- FOOTER -->
 <div id="footer">
-<p align="center">Copyright &copy; 2009-2014 Pittsford Panthers Robotics Club. All Rights Reserved.</p></div></div>
+<?php </div>
 </body>
 </html>

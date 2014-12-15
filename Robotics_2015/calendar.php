@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>  
     <!-- HOUSEKEEPING -->
         <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
@@ -7,11 +7,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="Images/PP.ico" />
     <link rel="icon" type="image/x-icon" href="Images/PP.ico" /><!-- STYLESHEETS -->
     <link rel="stylesheet" type="text/css" href="robotics.css" />
-    <link rel="stylesheet" type="text/css" href="IEStyle.css" />
+    <!--<link rel="stylesheet" type="text/css" href="IEStyle.css" />-->
     <style type="text/css">
-.auto-style5 {
-	border-width: 0px;
-}
     </style>
 </head>
 <body>
