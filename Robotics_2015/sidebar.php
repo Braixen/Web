@@ -144,14 +144,14 @@
 	</div>
                 <!--Millennium Machinery -->
 	<div>	<a href="http://www.millenniummachinery.com/">
-		<img alt="Millennium Machinery" height="35" src="Images/RochesterOpticalLogo_sm.png" width="150" />
+		<img alt="Millennium Machinery" height="35" src="Images/mm_logo.png" width="150" />
 		</a>
 	</div>
                     <!--Pittsford Federal Credit Union -->
 	<div>	<a href="https://www.pittsfordfcu.org/">
 		<img alt="Pittsford Federal Credit Union" height="72" src="Images/pfcu_logo.gif" width="150" />
 		</a>
-	</div>s
+	</div>
 	</div>
 		<hr />
 	<a href="http://www.usfirst.org/">
