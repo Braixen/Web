@@ -21,7 +21,7 @@
         
     	<style type="text/css">
 
-</style>
+		</style>
         
     </head>
 
@@ -29,7 +29,7 @@
 
         <div id="wrap">
 
-            <a href="./index.html"><div id="header"></div></a>
+            <a href="./index.php"><div id="header"></div></a>
 
             <!-- SIDEBAR -->
             

@@ -12,7 +12,7 @@
 <body>
 <div id="wrap">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./index.html">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./index.php">
 <div id="header"></div></a><!-- SIDEBAR -->
  <?php include("sidebar.php") ?>
 

@@ -18,11 +18,11 @@
     </head>
     <body >
 
-    <div id="wrap">
-
-        <div id="header" style="left: 0px"  >
-	    <a href="./index.html" style=" height: 100%" ></a>
-        </div><!-- SIDEBAR -->
+        <div id="wrap">
+<a href="./index.php" style=" height: 100%" >
+<div id="header" style="left: 0px" >
+        </div></a>
+        <!-- SIDEBAR -->
 	    <?php include("sidebar.php") ?>
     <!--
     <hr /><object width="150" height="91">

@@ -14,7 +14,7 @@
 <body>
     <div id="wrap">
 
-        <a href="./index.html">
+        <a href="./index.php">
         <div id="header" ></div></a><!-- SIDEBAR -->
         <?php include("sidebar.php") ?>
             <!-- MAIN -->

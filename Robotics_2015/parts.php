@@ -15,7 +15,7 @@
 
 	<br />
 
- <a href="./index.html">
+ <a href="./index.php">
 		<div id="header" style="left: 0px; top: 0px" ></div></a><!-- SIDEBAR -->
 <?php include("sidebar.php") ?>
 

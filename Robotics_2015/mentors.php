@@ -14,7 +14,10 @@
     </head>
     <body>
         <div id="wrap">
-            <div id="header"></div><!-- SIDEBAR -->
+<a href="./index.php" style=" height: 100%" >
+<div id="header" style="left: 0px" >
+        </div></a>
+        <!-- SIDEBAR -->
 
             <?php include("sidebar.php") ?>
             <!-- MAIN -->
@@ -55,8 +58,8 @@
 			            <p><strong>Name</strong>: Mrs. Neo</p>
 		            </div>
 		
-		            <div id="mr.neo" class="profile">
-			            <p><strong>Name</strong>: Mr. Neo</p>
+		            <div id="mr.chew" class="profile">
+			            <p><strong>Name</strong>: Mr. Chew</p>
 		            </div>
 		
 		            <div id="mrs.huang" class="profile">

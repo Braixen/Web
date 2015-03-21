@@ -10,11 +10,11 @@
     <!-- <link rel="stylesheet" type="text/css" href="IEStyle.css" /> -->
     <style type="text/css">
 
-</style>
+	</style>
 </head>
 <body>
 <div id="wrap">
-    <a href="./index.html">
+    <a href="./index.php">
     <div id="header">
     </div></a>
     <!-- SIDEBAR -->

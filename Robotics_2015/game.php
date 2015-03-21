@@ -15,7 +15,7 @@
 </style>
 </head>
 <body>
-<div id="wrap"><a href="./index.html">
+<div id="wrap"><a href="./index.php">
 <div id="header" style="left: 0px; top: 0px"></div></a>
     <!-- SIDEBAR -->
     <?php include("sidebar.php") ?>
