@@ -117,20 +117,24 @@
         <hr />
 	
     <div id="sponsors">
-	    <div id="safe" ><a href="http://sentrysafe.com/" style="width: 150px">
+	    <!--<div id="safe" ><a href="http://sentrysafe.com/" style="width: 150px">
 	    	<img alt="SenterySafe" height="55" src="Images/Sentry.jpg" width="153" />
 	    </a>
+	</div>-->
+	    <div> <!-- NASA -->
+        <a href="http://www.nasa.gov/index.html">
+		<img alt="NASA" height="96" src="Images/nasa-logo-meatball.jpg" width="150" />
+		</a>
 	</div>
-	
+            <!--Rochester Optical -->
+	<div>	<a href="http://www.rochesteroptical.com/">
+		<img alt="Rochester Optical" class="auto-style5" height="72" src="Images/RochesterOpticalLogo_sm.png" width="150" />
+		</a>
+	</div>
 <!--XEROX-->
 	<div id="xerox">
 		<a href="http://www.xerox.com/" >
 			<img  alt="Xerox" width="150" src="Images/xlogo.gif" />
-		</a>
-	</div>
-    <!--Rochester Optical -->
-	<div>	<a href="http://www.rochesteroptical.com/">
-		<img alt="Rochester Optical" class="auto-style5" height="72" src="Images/RochesterOpticalLogo_sm.png" width="150" />
 		</a>
 	</div>
 	<div><!--Cisco -->
@@ -138,10 +142,22 @@
 		<img alt="Cisco" height="68" src="Images/Cisco_sm.jpg" width="150" />
 	</a>
 	</div>
+                <!--Millennium Machinery -->
+	<div>	<a href="http://www.millenniummachinery.com/">
+		<img alt="Millennium Machinery" height="35" src="Images/RochesterOpticalLogo_sm.png" width="150" />
+		</a>
+	</div>
+                    <!--Pittsford Federal Credit Union -->
+	<div>	<a href="https://www.pittsfordfcu.org/">
+		<img alt="Pittsford Federal Credit Union" height="72" src="Images/pfcu_logo.gif" width="150" />
+		</a>
+	</div>s
 	</div>
 		<hr />
 	<a href="http://www.usfirst.org/">
 	<img alt="FIRST" width="150" src="Images/firstLogo.jpg" />
 		</a>
 		</div>
+
+
 	
