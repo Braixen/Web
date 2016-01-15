@@ -16,8 +16,6 @@
             <link rel="stylesheet" type="text/css" href="robotics.css" />
             
            
-            <link rel="stylesheet" type="text/css" href="IEStyle.css" />
-           
         
 		<link href="news.css" rel="stylesheet" type="text/css" />
 		<link href="newsTest.css" rel="stylesheet" type="text/css" />

@@ -22,7 +22,7 @@
             <div id="main">
             <h2><strong> Meeting Schedule</strong></h2>
             <hr /><br />
-            For now we are meeting Mondays 6:30-8:00 PM (this is temporary we will later create a permenant schedule) <br />
+            For now we are meeting Wednesdays 7:00-8:30 PM (this is temporary as we will later create a permenant schedule) <br />
 
          (All times are flexible based on your individual schedule. If you can't stay the whole time, that's fine.)<br />
             <hr  /><br />

@@ -30,15 +30,22 @@
         <!-- MAIN -->
     <div style="text-align: center;" id="main">
     <h1>- PITTSFORD PANTHERS - FRC TEAM 3181 - PITTSFORD, NY -</h1>
-	    <img alt="" width="400" src="Pictures/Robotics%202014%20Pictures/Team Photo.JPG" height="300" style="float: right" />
+	    <img alt="" width="450" src="Images/group_pic_2015.JPG" height="300" style="float: right" />
     <h4><em>Pittsford Robotics 2014</em></h4>
     <p>We are the Pittsford Panthers FIRST Robotics Competition Team 3181. We are made up of students from 
         Pittsford Mendon and Sutherland High Schools. We have been a part of FIRST (For Inspiration and Recognition of Science and Technology) 
-        since 2010. Our goal this year is to be the best. <?php echo self_check("calendar.php","Calendar"); ?></p><br />
+        since 2010. Our goal this year is to be the best.</p><br />
     <br /><br />
+	    <p></p>
+	    <br />
+	    <p></p>
+	    <br />
+	    <p></p>
+        <h2><em>Upcoming Events</em></h2>
+	<p> None! <?php echo self_check("calendar.php","Calendar"); ?></p><br />
+
 	    <div id="lower">
-        
-	    <!-- <div style="float:right;margin-right:20px">
+	   	    <!-- <div style="float:right;margin-right:20px">
 		    <h5 class="auto-style11">MAP TO PITTSFORD SUTHERLAND HIGH 
 		    SCHOOL</h5></div>
 	    <div style="float:left;"><h5>&nbsp;&nbsp;&nbsp;<span class="auto-style11"> MAP TO PITTSFORD MENDON HIGH SCHOOL</span></h5></div>

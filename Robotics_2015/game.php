@@ -6,7 +6,6 @@
 <link rel="shortcut icon" href="Images/PP.ico" type="image/x-icon" />
 <link rel="icon" href="Images/PP.ico" type="image/x-icon" /><!-- STYLESHEETS -->
 <link rel="stylesheet" type="text/css" href="robotics.css" />
-<link rel="stylesheet" type="text/css" href="IEStyle.css" />
 <link href="first.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .auto-style5 {

@@ -21,8 +21,6 @@
         
             <link rel="stylesheet" type="text/css" href="robotics.css" />
             
-           
-            <link rel="stylesheet" type="text/css" href="IEStyle.css" />
             
    
             
